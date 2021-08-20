@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    padding: 1%;
+
+}
+.img-responsive{
+    width: 100%;
+
+}
+.img-curve{
+    border-radius: 15px;
+
+}
+.text-right{
+    text-align: right;
+}
+.text-center{
+    text-align: center;
+}
+.clearfix{
+    clear: both;
+    float: none;
+}
+a{
+    color: #ff6b81;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+a:hover{
+    color: #ff4757;
+}
+.btn{
+    padding: 1%;
+    border: none;
+    font-size: 1rem;
+}
+.btn-primary{
+    background-color: #ff6b81;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.btn-primary:hover{
+    background-color:#ff4757 ;
+}
+h2{
+    color: #2f3542;
+    font-size: 2rem;
+    margin-bottom: 2%;
+}
+h3{
+    font-size: 1.5rem;
+}
+.float-container{
+    position: relative;
+}
+.float-text{
+    position: absolute;
+    bottom: 50px;
+    left: 40%;
+}
+.text-white{
+    color:white;
+}
+/* stylling for navbar */
+.logo{
+    width: 10%;
+    float: left;
+}
+.menu{
+    line-height: 100px;
+}
+.menu ul{
+    list-style-type: none;
+
+}
+.menu ul li{
+    display: inline; 
+    padding: 1%;
+    font-weight: bold;   
+}
+/* css for food search */
+.food-search{
+    background-image: url(../images/background1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 7% 0;
+}
+.food-search input[type="search"]{
+    width: 50%;
+    padding: 1%;
+    font-size: 1rem;
+    border: none;
+    border-radius: 10px;
+}
+/* css for categories */
+.box-3{
+    width: 28%;
+    float: left;
+    margin: 2%;
+}
+.food-menu{
+    background-color: darkgrey;
+    padding: 4% 0;
+}
+.food-menu-box{
+    width: 45%;
+    float: left;
+    padding: 1%;
+    margin: 1%;
+    background-color: white;
+    border-radius: 15px;
+
+}
+.food-menu-img{
+    width: 20%;
+    float: left;
+}
+.food-menu-desc{
+    width: 70%;
+    float: left;
+    margin-left: 8%;
+}
+.food-price{
+    font-size: 1.2rem;
+    margin: 1% 0;
+}
+.food-details{
+    font-size: 1rem;
+}
+/* css for social */
+.social ul{
+    list-style-type: none;
+}
+.social ul li{
+    display: inline;
+    padding: 1%;
+}
+
+
