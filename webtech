@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<!--[if IE 6]><html
+id=ie6 lang=en-US>
+<![endif]-->
+<!--[if IE 7]><html
+id=ie7 lang=en-US>
+<![endif]-->
+<!--[if IE 8]><html
+id=ie8 lang=en-US>
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!--><html
+lang=en-US>
+<!--<![endif]--><head><style>img.lazy{min-height:1px}</style><link
+rel=preload href=https://blog.oureducation.in/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js as=script>
+ <script src=https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js></script> <script>$(document).ready(function(){$('#submit').click(function(){var name=$('#name').val();var msg=$('#msg').val();var captcha=$('#captcha').val();if(captcha.length==0){$('#captcha').addClass('error');}
+else{$('#captcha').removeClass('error');}
+if(name.length!=0&&msg.length!=0&&captcha.length!=0){return true;}
+return false;});var capch='';if(capch!='notEq'){if(capch=='Eq'){$('.cap_status').html("Your form is successfully Submitted ").fadeIn('slow').delay(3000).fadeOut('slow');}else{$('.cap_status').html("Human verification Wrong!").addClass('cap_status_error').fadeIn('slow');}}});</script> <script type=application/ld+json>{"@context":"http://schema.org","@type":"WebSite","url":"https://blog.oureducation.in/","potentialAction":[{"@type":"SearchAction","target":"https://blog.oureducation.in/search?q={search_term_string}","query-input":"required name=search_term_string"},{"@type":"SearchAction","target":"android-app://in.oureducation.blog/https/query.example.com/search/?q={search_term_string}","query-input":"required name=search_term_string"}]}</script> <meta
+charset="utf-8"><meta
+name="viewport" content="width=device-width, initial-scale=1.0"><link
+href='https://fonts.googleapis.com/css?family=Abril+Fatface|Source+Sans+Pro:400,900,700|Roboto:900|BenchNine:700|Karla:700|Armata|Raleway:200:300:400:600,700,800,900|Stint+Ultra+Condensed|Merriweather|Arbutus+Slab|Open+Sans+Condensed:700|Archivo+Black|Carrois+Gothic|Patua+One|Questrial|Marvel:400,700|Gudea:400,700,400italic|Bitter:400,700,400italic|Passion+One:400,700|Jockey+One|Quicksand:400,300,700|Terminal+Dosis:400,800,300,600|Sansita+One|Changa+One|Paytone+One|Dorsa|Rochester|Bigshot+One|Open+Sans:300:400:600:700:800|Merienda+One|Six+Caps|Bevan|Oswald:700|Vidaloka|Droid+Sans|Josefin+Sans|Dancing+Script:400,700|Abel|Rokkitt|Droid+Serif' rel=stylesheet type=text/css><meta
+name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'><meta
+name="google-site-verification" content="nIsotBHQZaGwCN0gjv5AmJsG4YmH5JAdRNPv6Xv7Mqk"><meta
+name="msvalidate.01" content="A1887C4367DAC8A0F704AC0D2B9299F6"><meta
+name="p:domain_verify" content="784c45e07f46d0026fe85fb78753dbb8"><meta
+name="yandex-verification" content="579b101778c16609"><meta
+name="facebook-domain-verification" content="guxtml9ovxsiyil50izmjalx3uiz4v"><title>Internet and Web Technology | Our Education</title><meta
+name="description" content="BPUT sample paper questions with answers for Internet and web technology question answers on internet and web technology placement viva questions"><link
+rel=canonical href=https://blog.oureducation.in/internet-and-web-technology/ ><meta
+property="og:locale" content="en_US"><meta
+property="og:type" content="article"><meta
+property="og:title" content="Internet and Web Technology"><meta
+property="og:description" content="BPUT sample paper questions with answers for Internet and web technology question answers on internet and web technology placement viva questions"><meta
+property="og:url" content="https://blog.oureducation.in/internet-and-web-technology/"><meta
+property="og:site_name" content="Our Education | Best Coaching Institutes Colleges Rank"><meta
+property="article:publisher" content="https://www.facebook.com/oureducation"><meta
+property="article:author" content="https://www.facebook.com/npahi"><meta
+property="article:published_time" content="2013-03-24T10:46:19+00:00"><meta
+property="article:modified_time" content="2013-05-22T13:18:33+00:00"><meta
+property="og:image" content="https://blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept-300x183.jpg"><meta
+name="twitter:card" content="summary_large_image"><meta
+name="twitter:creator" content="@NPahi"><meta
+name="twitter:site" content="@oureducationin"><meta
+name="twitter:label1" content="Written by"><meta
+name="twitter:data1" content="Niroj Pahi"><meta
+name="twitter:label2" content="Est. reading time"><meta
+name="twitter:data2" content="6 minutes"> <script type=application/ld+json class=yoast-schema-graph>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://blog.oureducation.in/#organization","name":"blog.oureducation.in","url":"https://blog.oureducation.in/","sameAs":["https://www.facebook.com/oureducation","https://www.instagram.com/blog.oureducation/","https://www.linkedin.com/in/oureducation/","http://www.youtube.com/c/OureducationInRuva","https://in.pinterest.com/saarika444/","https://twitter.com/oureducationin"],"logo":{"@type":"ImageObject","@id":"https://blog.oureducation.in/#logo","inLanguage":"en-US","url":"https://i1.wp.com/blog.oureducation.in/wp-content/uploads/2015/01/16.png?fit=210%2C88&ssl=1","contentUrl":"https://i1.wp.com/blog.oureducation.in/wp-content/uploads/2015/01/16.png?fit=210%2C88&ssl=1","width":210,"height":88,"caption":"blog.oureducation.in"},"image":{"@id":"https://blog.oureducation.in/#logo"}},{"@type":"WebSite","@id":"https://blog.oureducation.in/#website","url":"https://blog.oureducation.in/","name":"Our Education | Best Coaching Institutes Colleges Rank","description":"Best Coaching Institutes Colleges Rank","publisher":{"@id":"https://blog.oureducation.in/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://blog.oureducation.in/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://blog.oureducation.in/internet-and-web-technology/#primaryimage","inLanguage":"en-US","url":"https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?fit=1200%2C732&ssl=1","contentUrl":"https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?fit=1200%2C732&ssl=1","width":1200,"height":732},{"@type":"WebPage","@id":"https://blog.oureducation.in/internet-and-web-technology/#webpage","url":"https://blog.oureducation.in/internet-and-web-technology/","name":"Internet and Web Technology | Our Education","isPartOf":{"@id":"https://blog.oureducation.in/#website"},"primaryImageOfPage":{"@id":"https://blog.oureducation.in/internet-and-web-technology/#primaryimage"},"datePublished":"2013-03-24T10:46:19+00:00","dateModified":"2013-05-22T13:18:33+00:00","description":"BPUT sample paper questions with answers for Internet and web technology question answers on internet and web technology placement viva questions","breadcrumb":{"@id":"https://blog.oureducation.in/internet-and-web-technology/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://blog.oureducation.in/internet-and-web-technology/"]}]},{"@type":"BreadcrumbList","@id":"https://blog.oureducation.in/internet-and-web-technology/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://blog.oureducation.in/"},{"@type":"ListItem","position":2,"name":"Internet and Web Technology"}]},{"@type":"Article","@id":"https://blog.oureducation.in/internet-and-web-technology/#article","isPartOf":{"@id":"https://blog.oureducation.in/internet-and-web-technology/#webpage"},"author":{"@id":"https://blog.oureducation.in/#/schema/person/3055bcb92d84291a717e4df94c5dbb6a"},"headline":"Internet and Web Technology","datePublished":"2013-03-24T10:46:19+00:00","dateModified":"2013-05-22T13:18:33+00:00","mainEntityOfPage":{"@id":"https://blog.oureducation.in/internet-and-web-technology/#webpage"},"wordCount":1187,"commentCount":1,"publisher":{"@id":"https://blog.oureducation.in/#organization"},"image":{"@id":"https://blog.oureducation.in/internet-and-web-technology/#primaryimage"},"thumbnailUrl":"https://blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept-300x183.jpg","articleSection":["Engineering Sample Papers"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://blog.oureducation.in/internet-and-web-technology/#respond"]}]},{"@type":"Person","@id":"https://blog.oureducation.in/#/schema/person/3055bcb92d84291a717e4df94c5dbb6a","name":"Niroj Pahi","description":"Niroj Kumar Pahi B-Tech Computer Science Engineering From Oxford College of Engineering and Management, Bhubaneswar, Odisha. Currently Working in Ruva Customer Services pvt. Ltd as IT promotional Consultant","sameAs":["https://blog.oureducation.in","https://www.facebook.com/npahi","https://twitter.com/@NPahi"]}]}</script> <link
+rel=dns-prefetch href=//use.fontawesome.com><link
+rel=dns-prefetch href=//s.w.org><link
+rel=dns-prefetch href=//widgets.wp.com><link
+rel=dns-prefetch href=//s0.wp.com><link
+rel=dns-prefetch href=//0.gravatar.com><link
+rel=dns-prefetch href=//1.gravatar.com><link
+rel=dns-prefetch href=//2.gravatar.com><link
+rel=dns-prefetch href=//i0.wp.com><link
+rel=dns-prefetch href=//i1.wp.com><link
+rel=dns-prefetch href=//i2.wp.com><link
+rel=dns-prefetch href=//c0.wp.com><link
+rel=alternate type=application/rss+xml title="Our Education | Best Coaching Institutes Colleges Rank &raquo; Feed" href=https://blog.oureducation.in/feed/ ><link
+rel=alternate type=application/rss+xml title="Our Education | Best Coaching Institutes Colleges Rank &raquo; Comments Feed" href=https://blog.oureducation.in/comments/feed/ ><link
+rel=alternate type=application/rss+xml title="Our Education | Best Coaching Institutes Colleges Rank &raquo; Internet and Web Technology Comments Feed" href=https://blog.oureducation.in/internet-and-web-technology/feed/ > <script>window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blog.oureducation.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);</script> <style>img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0
+.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0
+!important}</style><link
+rel=stylesheet href=https://blog.oureducation.in/wp-content/cache/minify/940f6.css media=all><link
+rel=stylesheet id=wp-block-library-css  href=https://c0.wp.com/c/5.8.1/wp-includes/css/dist/block-library/style.min.css type=text/css media=all><style id=wp-block-library-inline-css>.has-text-align-justify{text-align:justify}</style><link
+rel=stylesheet id=mediaelement-css  href=https://c0.wp.com/c/5.8.1/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css type=text/css media=all><link
+rel=stylesheet id=wp-mediaelement-css  href=https://c0.wp.com/c/5.8.1/wp-includes/js/mediaelement/wp-mediaelement.min.css type=text/css media=all><link
+rel=stylesheet href=https://blog.oureducation.in/wp-content/cache/minify/4dd99.css media=all><style id=ez-toc-inline-css>div#ez-toc-container p.ez-toc-title{font-size:120%}div#ez-toc-container p.ez-toc-title{font-weight:500}div#ez-toc-container ul
+li{font-size:95%}</style><link
+rel=stylesheet id=bfa-font-awesome-css  href='https://use.fontawesome.com/releases/v5.15.4/css/all.css?ver=2.0.1' type=text/css media=all><link
+rel=stylesheet id=bfa-font-awesome-v4-shim-css  href='https://use.fontawesome.com/releases/v5.15.4/css/v4-shims.css?ver=2.0.1' type=text/css media=all><style id=bfa-font-awesome-v4-shim-inline-css>@font-face{font-family:'FontAwesome';src:url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot'),
+url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot?#iefix') format('embedded-opentype'),
+url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff2') format('woff2'),
+url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff') format('woff'),
+url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.ttf') format('truetype'),
+url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.svg#fontawesome') format('svg')}@font-face{font-family:'FontAwesome';src:url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot'),
+url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot?#iefix') format('embedded-opentype'),
+url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff2') format('woff2'),
+url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff') format('woff'),
+url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.ttf') format('truetype'),
+url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.svg#fontawesome') format('svg')}@font-face{font-family:'FontAwesome';src:url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot'),
+url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot?#iefix') format('embedded-opentype'),
+url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff2') format('woff2'),
+url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff') format('woff'),
+url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.ttf') format('truetype'),
+url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.svg#fontawesome') format('svg');unicode-range:U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD}</style><link
+rel=stylesheet href=https://blog.oureducation.in/wp-content/cache/minify/83a27.css media=all><style id=__EPYT__style-inline-css>.epyt-gallery-thumb{width:33.333%}@media (min-width:0px) and (max-width: 767px){.epyt-gallery-rowbreak{display:none}.epyt-gallery-allthumbs[class*="epyt-cols"] .epyt-gallery-thumb{width:100% !important}}</style><link
+rel=stylesheet href=https://blog.oureducation.in/wp-content/cache/minify/56ceb.css media=all><link
+rel=stylesheet id=jetpack_css-css  href=https://c0.wp.com/p/jetpack/10.1/css/jetpack.css type=text/css media=all> <script id=jetpack_related-posts-js-extra>var related_posts_js_options={"post_heading":"h4"};</script> <script src=https://c0.wp.com/p/jetpack/10.1/_inc/build/related-posts/related-posts.min.js id=jetpack_related-posts-js></script> <script src=https://c0.wp.com/c/5.8.1/wp-includes/js/jquery/jquery.min.js id=jquery-core-js></script> <script src=https://c0.wp.com/c/5.8.1/wp-includes/js/jquery/jquery-migrate.min.js id=jquery-migrate-js></script> <script src=https://blog.oureducation.in/wp-content/cache/minify/4ade0.js></script> <script id=__ytprefs__-js-extra>var _EPYT_={"ajaxurl":"https:\/\/blog.oureducation.in\/wp-admin\/admin-ajax.php","security":"7bf16fabf2","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/blog.oureducation.in\/wp-content\/plugins\/youtube-embed-plus-pro\/scripts\/","eppath":"https:\/\/blog.oureducation.in\/wp-content\/plugins\/youtube-embed-plus-pro\/","epresponsiveselector":"[\"iframe.__youtube_prefs__\",\"iframe[src*='youtube.com']\",\"iframe[src*='youtube-nocookie.com']\",\"iframe[data-ep-src*='youtube.com']\",\"iframe[data-ep-src*='youtube-nocookie.com']\",\"iframe[data-ep-gallerysrc*='youtube.com']\"]","epdovol":"1","version":"13.4.3","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};</script> <script src=https://blog.oureducation.in/wp-content/cache/minify/09854.js></script> <link
+rel=https://api.w.org/ href=https://blog.oureducation.in/wp-json/ ><link
+rel=alternate type=application/json href=https://blog.oureducation.in/wp-json/wp/v2/posts/17935><link
+rel=EditURI type=application/rsd+xml title=RSD href=https://blog.oureducation.in/xmlrpc.php?rsd><link
+rel=wlwmanifest type=application/wlwmanifest+xml href=https://blog.oureducation.in/wp-includes/wlwmanifest.xml><meta
+name="generator" content="WordPress 5.8.1"><link
+rel=shortlink href='https://blog.oureducation.in/?p=17935'><link
+rel=alternate type=application/json+oembed href="https://blog.oureducation.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.oureducation.in%2Finternet-and-web-technology%2F"><link
+rel=alternate type=text/xml+oembed href="https://blog.oureducation.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblog.oureducation.in%2Finternet-and-web-technology%2F&#038;format=xml"> <script data-cfasync=false>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");</script> <script>var ajaxurl="https://blog.oureducation.in/wp-admin/admin-ajax.php";</script> <script>jQuery(function($){$('.comment-reply-link').click(function(e){e.preventDefault();CKEDITOR.instances.comment.destroy();addComment.moveForm.apply(addComment);CKEDITOR.replace("comment");});});</script> <script data-cfasync=false>var _mmunch={'front':false,'page':false,'post':false,'category':false,'author':false,'search':false,'attachment':false,'tag':false};_mmunch['post']=true;_mmunch['postData']={"ID":17935,"post_name":"internet-and-web-technology","post_title":"Internet and Web Technology ","post_type":"post","post_author":"48","post_status":"publish"};_mmunch['postCategories']=[{"term_id":1010,"name":"Engineering Sample Papers","slug":"engineering-sample-papers","term_group":0,"term_taxonomy_id":1011,"taxonomy":"category","description":"Sample paper or Previous year question paper of different engineering exams like IIT JEE , WB JEE , JEE advance , JEE mains , COMED K , VITEEE, EAMCET , NATA","parent":0,"count":136,"filter":"raw","cat_ID":1010,"category_count":136,"category_description":"Sample paper or Previous year question paper of different engineering exams like IIT JEE , WB JEE , JEE advance , JEE mains , COMED K , VITEEE, EAMCET , NATA","cat_name":"Engineering Sample Papers","category_nicename":"engineering-sample-papers","category_parent":0}];_mmunch['postTags']=false;_mmunch['postAuthor']={"name":"Niroj Pahi","ID":48};</script><script data-cfasync=false src=//a.mailmunch.co/app/v1/site.js id=mailmunch-script data-plugin=mailmunch data-mailmunch-site-id=614042 async></script><style>img#wpstats{display:none}</style><link
+rel="shortcut icon" href=https://blog.oureducation.in/wp-content/uploads/2017/01/logo.png><link
+rel=stylesheet href=https://blog.oureducation.in/wp-content/cache/minify/c5e17.css media=all><style>.flexslider a.flex-prev,.flexslider a.flex-next,.nav>li>ul,.container{background-color:#fff}ul#serinfo-nav{border-color:#fff !important}.body2,.header_scroll,.headbg,.header_noslide,#footer,.services h3 i,#portfolio-list>li>span,#content>span,li.main
+h3{background-color:#4f4f4f}#nav li a,.nav>li>a,h2.widget{border-color:#4f4f4f}#serinfo,#serinfo-nav li.current,#navigation{background-color:#f9f9f9}#sidebar p input[type=submit],span.ribbon,a#triggernav,a#triggernav-sec,a.fromhome,.imgwrap,a.mainbutton,a.itembutton,.page-numbers.current,a.comment-reply-link,#submit,#comments .navigation a,.tagssingle a,.contact-form .submit,.intro,li.main h2,.plan-bottom a,.scrollTo_top a,.gallery-item,submit{background-color:#f34747}a.moreposts,.meta span,.meta
+a{color:#f34747 !important}body{background-color:#4f4f4f}h2.widget{border-color:#4f4f4f !important}.body1 a,a:link,a:visited{color:#054985}span>a.moreposts{color:#054985 !important}a:hover,.body1 a:hover,#serinfo a:hover,.nav>li.sfHover>a,.nav>li.current-menu-item>a,#serinfo-nav li.current a,#sec-nav>li.current-menu-item>a{color:#168ede  !important}.nav>li>a:hover,.nav>li.current-menu-ancestor>a,.nav>li.current-menu-item>a,.nav>li.sfHover>a,.nav>li.current-menu-item>a{border-bottom-color:#168ede !important}.body2 a,a.body2{color:#fff}.body2 a:hover,p.body2 a:hover{color:#168ede!important}.archivepost li,#comments,#header,#sec-navigation,#core_bg,.seccol li,.teaser,.meta,.etabs,.tab,.widgetflexslider,.widgetcol,.widgetcol_small,#sec-nav>li>a,ul#serinfo,#serinfo-nav li.current,#hometab,#navigation,.nav>li>a,#sidebar h2,.ad300,.searchformhead input.s,.searchform input.s,.nav>li>ul,#main-nav>li,.nav li ul li a,.pagination,input, textarea,input checkbox,input radio,select,file{border-color:#ededed !important}body,#sec-nav,input, textarea,input checkbox,input radio,select,file,h3.sd-title{font:400 14px/2.2em Verdana, Geneva, sans-serif;color:#423742}h2.ads{color:#423742}.body2{font:400 16px/2.2em Verdana, Geneva, sans-serif;color:#fff}.body2 h2,.body2 h3,.tickerwrap>span{color:#fff !important}.intro h1,.intro h1 a,a.itembutton,a.mainbutton,.page-numbers.current{color:}h1{font:600 25px/1.5em "Raleway", sans-serif;color:#2e373f}#block ul li
+h2{font-family:"Raleway",sans-serif}h2{font:600 23px/1.2em "Raleway", sans-serif;color:#3d3d3d}h2.widget>a{color:#3d3d3d}h2.post{font:200 25px/1.2em "Raleway", sans-serif;color:#2e373f}#sidebar
+h2{color:#2e373f}h3,h3#reply-title,#respond
+h3{font:600 21px/1.5em "Raleway", sans-serif;color:#1b02d4 !important}h4{font:600 18px/1.5em "Raleway", sans-serif;color:#2e373f}h5{font:600 17px/1.5em "Raleway", sans-serif;color:#2e373f}h6{font:600 17px/1.5em "Raleway", sans-serif;color:#2e373f}#nav li a,.nav>li>a,ul#serinfo-nav li a,#sec-nav>li>a,.searchformhead>input.s,.tickerwrap>span{font:800 12px/1.7em "Raleway", sans-serif;color:#2e373f}.tab-post small a,.taggs
+a{color:#423742}</style><style id=custom-background-css>body.custom-background{background-color:#bec6a5}</style><style>html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image{display:none}</style> <script>document.documentElement.classList.add('jetpack-lazy-images-js-enabled');</script> <link
+rel=icon href="https://i0.wp.com/blog.oureducation.in/wp-content/uploads/2019/05/cropped-Blog.oureducation-512logo-1.png?fit=32%2C32&#038;ssl=1" sizes=32x32><link
+rel=icon href="https://i0.wp.com/blog.oureducation.in/wp-content/uploads/2019/05/cropped-Blog.oureducation-512logo-1.png?fit=192%2C192&#038;ssl=1" sizes=192x192><link
+rel=apple-touch-icon href="https://i0.wp.com/blog.oureducation.in/wp-content/uploads/2019/05/cropped-Blog.oureducation-512logo-1.png?fit=180%2C180&#038;ssl=1"><meta
+name="msapplication-TileImage" content="https://i0.wp.com/blog.oureducation.in/wp-content/uploads/2019/05/cropped-Blog.oureducation-512logo-1.png?fit=270%2C270&#038;ssl=1"><style id=wp-custom-css>.comment-meta{display:none}body{font-size:18px}.post
+p{line-height:1.8em;padding-bottom:0em}h1{font-size:36px}h2{font-size:30px}h3{font-size:25px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}.entry
+span.ribbon{display:none}.widgetcol_big .teaser
+span.ribbon{display:none}.wppr-comment-form-meta{width:90% !important}#snippet-box{max-width:unset !important;width:auto !important}#snippet-box .snippet-title{width:auto !important}#snippet-box .aio-info .snippet-label-img{width:auto !important}#snippet-box .snippet-markup .snippet-data{width:unset !important}#respond
+textarea{margin-bottom:12px;width:90%}#respond
+p{clear:left}.user-comments-grades{float:right}.aligncenter{display:contents}.wp-caption p.wp-caption-text{font-size:18px;margin:-17.5px 0 0 0}.sc_card{width:auto !important}.sub-menu{display:block !important;visibility:visible !important}.searchform>input.s{-webkit-box-shadow:-1px 0px 16px 0px rgba(0,0,0,0.75) !important;-moz-box-shadow:-1px 0px 16px 0px rgba(0,0,0,0.75) !important;box-shadow:-1px 0px 16px 0px rgba(0,0,0,0.75) !important}#menu-item-218750>a{background:red;color:#fff;letter-spacing:2px;font-weight:400px;font-size:14px;border-radius:5px;padding:10px
+25px}#menu-item-218750{padding:10px}.commentlist
+li.comment{padding:30px
+0 0 7px}</style><meta
+name="google-site-verification" content="nIsotBHQZaGwCN0gjv5AmJsG4YmH5JAdRNPv6Xv7Mqk"><meta
+name="p:domain_verify" content="784c45e07f46d0026fe85fb78753dbb8"> <script id=pixel-script-poptin src='https://cdn.popt.in/pixel.js?id=a41617e75d17a' async=true></script> </head><body
+class="post-template-default single single-post postid-17935 single-format-standard custom-background"><div
+class="container   upper"><div
+id=top-nav class=body2></div><header
+id=header><nav
+id=sec-navigation></nav><div
+style="clear: both;"></div>
+<a
+class=homelink href=https://blog.oureducation.in/ >
+<img
+class=lazy id=logo src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src=https://blog.oureducation.in/wp-content/uploads/2015/01/16.png alt="Our Education | Best Coaching Institutes Colleges Rank">
+</a>
+<a
+id=triggernav href=#>MENU</a><nav
+id=navigation><ul
+id=main-nav class="nav custom-nav"><li
+id=menu-item-192851 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-192851"><a
+href=https://blog.oureducation.in/ias-coaching/ >Best IAS Coaching</a><ul
+class=sub-menu>
+<li
+id=menu-item-192795 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192795"><a
+href=https://blog.oureducation.in/best-ias-coaching-institutes-in-delhi/ >IAS Coaching in Delhi</a></li>
+<li
+id=menu-item-192800 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192800"><a
+href=https://blog.oureducation.in/top-10-upsc-coaching-centre-bangalore/ >IAS Coaching in Bangalore</a></li>
+<li
+id=menu-item-192798 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192798"><a
+href=https://blog.oureducation.in/top-ias-coaching-institutes-in-hyderabad/ >IAS Coaching in Hyderabad</a></li>
+<li
+id=menu-item-192788 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192788"><a
+href=https://blog.oureducation.in/top-ias-coaching-institutes-in-mumbai/ >IAS Coaching in Mumbai</a></li>
+<li
+id=menu-item-192791 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192791"><a
+href=https://blog.oureducation.in/top-ias-coaching-institute-kolkata/ >IAS Coaching in Kolkata</a></li>
+<li
+id=menu-item-192803 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192803"><a
+href=https://blog.oureducation.in/best-ias-coaching-institutes-in-bhopal/ >IAS Coaching in  Bhopal</a></li>
+<li
+id=menu-item-192809 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192809"><a
+href=https://blog.oureducation.in/best-ias-coaching-centers-in-patna/ >IAS Coaching in Patna</a></li>
+<li
+id=menu-item-218522 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218522"><a
+href=https://blog.oureducation.in/best-online-ias-coaching/ >Online IAS Coaching</a></li></ul>
+</li>
+<li
+id=menu-item-196414 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-196414"><a>Gate  Coaching</a><ul
+class=sub-menu>
+<li
+id=menu-item-196411 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196411"><a
+href=https://blog.oureducation.in/best-gate-coaching-institutes-in-delhi/ >Gate Coaching in Delhi</a></li>
+<li
+id=menu-item-196412 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196412"><a
+href=https://blog.oureducation.in/top-gate-coaching-institutes-bangalore/ >GATE Coaching in Bangalore</a></li>
+<li
+id=menu-item-196413 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196413"><a
+href=https://blog.oureducation.in/top-gate-coaching-centers-hyderabad/ >GATE Coaching in Hyderabad</a></li>
+<li
+id=menu-item-196484 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196484"><a
+href=https://blog.oureducation.in/top-gate-coaching-centers-chandigarh/ >Gate Coaching in Chandigarh</a></li>
+<li
+id=menu-item-196467 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196467"><a
+href=https://blog.oureducation.in/top-10-gate-coaching-centers-kolkata/ >Gate Coaching in Kolkata</a></li>
+<li
+id=menu-item-196468 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196468"><a
+href=https://blog.oureducation.in/top-gate-coaching-institutes-in-mumbai-2/ >Gate coaching in Mumbai</a></li>
+<li
+id=menu-item-196483 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196483"><a
+href=https://blog.oureducation.in/top-gate-coaching-centers-chennai/ >Gate Coaching in Chennai</a></li></ul>
+</li>
+<li
+id=menu-item-196500 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-196500"><a>SSC</a><ul
+class=sub-menu>
+<li
+id=menu-item-196509 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196509"><a
+href=https://blog.oureducation.in/top-ssc-coaching-centers-noida/ >SSC coaching in Noida</a></li>
+<li
+id=menu-item-196488 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196488"><a
+href=https://blog.oureducation.in/best-ssc-coaching-institutes-in-delhi/ >SSC Coaching in Delhi</a></li>
+<li
+id=menu-item-196501 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196501"><a
+href=https://blog.oureducation.in/top-ssc-coaching-centers-in-bangalore/ >SSC Coaching In Bangalore</a></li>
+<li
+id=menu-item-196503 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196503"><a
+href=https://blog.oureducation.in/top-ssc-coaching-centers-in-hyderabad/ >SSC Coaching in Hyderabad</a></li>
+<li
+id=menu-item-196556 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196556"><a
+href=https://blog.oureducation.in/best-ssc-coaching-institutes-in-mumbai/ >SSC coaching Mumbai</a></li>
+<li
+id=menu-item-196505 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196505"><a
+href=https://blog.oureducation.in/top-10-ssc-coaching-center-in-kolkata/ >SSC Coaching in Kolkata</a></li>
+<li
+id=menu-item-196507 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196507"><a
+href=https://blog.oureducation.in/top-ssc-coaching-centres-in-chennai/ >SSC coaching in Chennai</a></li></ul>
+</li>
+<li
+id=menu-item-196517 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-196517"><a>Bank Coaching</a><ul
+class=sub-menu>
+<li
+id=menu-item-196520 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196520"><a
+href=https://blog.oureducation.in/best-bank-po-coaching-institutes-in-noida/ >Bank Coaching in Noida</a></li>
+<li
+id=menu-item-196521 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196521"><a
+href=https://blog.oureducation.in/best-bank-po-coaching-institutes-in-delhi/ >Bank Coaching in Delhi</a></li>
+<li
+id=menu-item-196523 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196523"><a
+href=https://blog.oureducation.in/best-bank-po-coaching-institutes-in-hyderabad/ >Bank coaching in Hyderabad</a></li>
+<li
+id=menu-item-196525 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196525"><a
+href=https://blog.oureducation.in/rank-wise-list-of-top-bank-coaching-in-bangalore/ >Bank Coaching Bangalore</a></li>
+<li
+id=menu-item-196529 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196529"><a
+href=https://blog.oureducation.in/best-bank-po-coaching-institutes-in-chennai/ >Bank Coaching Chennai</a></li>
+<li
+id=menu-item-196531 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196531"><a
+href=https://blog.oureducation.in/top-coaching-classes-for-bank-po-and-clerical-in-kolkata/ >Bank Coaching Kolkata</a></li>
+<li
+id=menu-item-196558 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196558"><a
+href=https://blog.oureducation.in/best-bank-po-coaching-institutes-in-mumbai/ >Bank coaching Mumbai</a></li></ul>
+</li>
+<li
+id=menu-item-196532 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-196532"><a>IIT-JEE Coaching</a><ul
+class=sub-menu>
+<li
+id=menu-item-196533 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196533"><a
+href=https://blog.oureducation.in/top10-iit-jee-coaching-center-in-delhi/ >IIT JEE Coaching in Delhi</a></li>
+<li
+id=menu-item-196535 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196535"><a
+href=https://blog.oureducation.in/coaching-centres-for-jee-in-hyderabad/ >IIT JEE Coaching Hyderabad</a></li>
+<li
+id=menu-item-196534 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196534"><a
+href=https://blog.oureducation.in/best-iit-jee-coaching-institutes-in-bangalore/ >IIT JEE Coaching Bangalore</a></li>
+<li
+id=menu-item-196538 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196538"><a
+href=https://blog.oureducation.in/best-iit-jee-coaching-center-in-kolkata/ >IIT JEE Coaching Kolkata</a></li>
+<li
+id=menu-item-196539 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196539"><a
+href=https://blog.oureducation.in/best-iit-jee-coaching-institutes-in-chennai/ >IIT JEE Coaching Chennai</a></li>
+<li
+id=menu-item-196554 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196554"><a
+href=https://blog.oureducation.in/top-coaching-institutes-for-iitjee-in-mumbai/ >IIT JEE coaching Mumbai</a></li>
+<li
+id=menu-item-196542 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196542"><a
+href=https://blog.oureducation.in/top-coaching-institutions-for-iitjee-and-aieee-in-chandigarh-2/ >IIT JEE Coaching in Chandigarh</a></li></ul>
+</li>
+<li
+id=menu-item-196544 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-196544"><a>NEET Coaching</a><ul
+class=sub-menu>
+<li
+id=menu-item-196546 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196546"><a
+href=https://blog.oureducation.in/best-neet-coaching-institutes-in-delhi/ >NEET coaching in Delhi</a></li>
+<li
+id=menu-item-196548 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196548"><a
+href=https://blog.oureducation.in/top-neet-coaching-centres-in-bangalore/ >NEET Coaching Bangalore</a></li>
+<li
+id=menu-item-196550 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196550"><a
+href=https://blog.oureducation.in/top-neet-coaching-centres-in-kolkata/ >Neet coaching Kolkata</a></li>
+<li
+id=menu-item-196552 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196552"><a
+href=https://blog.oureducation.in/top-neet-coaching-centers-in-hyderabad/ >Neet Coaching Hyderabad</a></li>
+<li
+id=menu-item-196553 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196553"><a
+href=https://blog.oureducation.in/best-neet-coaching-institute-in-mumbai/ >Neet coaching Mumbai</a></li>
+<li
+id=menu-item-196562 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196562"><a
+href=https://blog.oureducation.in/top-10-medical-coaching-centers-in-chennai/ >Neet Coaching Chennai</a></li></ul>
+</li>
+<li
+id=menu-item-182711 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182711"><a
+href=https://blog.oureducation.in/contact-us/ >Contact Us</a></li>
+<li
+id=menu-item-218750 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218750"><a
+href=https://www.oureducation.in/answers/ >ASK</a></li></ul></nav><head><style>table,th,td{border:1px
+solid black}</style></head><head><style>ul li, ol
+li{display:list-item;list-style-type:Square;margin-left:1em;line-height:1.2em;padding-bottom:1.1em}}</style></head></header><div
+style="clear: both;"></div><div
+id=fb-root></div> <script async defer crossorigin=anonymous src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2&appId=369084750337170&autoLogAppEvents=1"></script> <script async defer data-pin-hover=true data-pin-tall=true src=//assets.pinterest.com/js/pinit.js></script> <meta
+name="google-site-verification" content="aCN4-3M6iMfn-9UVMt97SitkgONgYvzkiuXdF4ug3mo"><div
+id=core><div
+id=content><div
+class="post-17935 post type-post status-publish format-standard hentry category-engineering-sample-papers"><div
+style="clear: both;"></div><div
+class=entry>
+<span
+class=ribbon><span
+class=ribbon_icon><i
+class=icon-file-alt></i></span></span><h1 class="post"><a
+href=https://blog.oureducation.in/internet-and-web-technology/ >Internet and Web Technology</a></h1><p
+class=meta>Mar 24 &bull; <a
+href=https://blog.oureducation.in/engineering-sample-papers/ rel="category tag">Engineering Sample Papers</a> &bull; 6139 Views &bull; <a
+href=https://blog.oureducation.in/internet-and-web-technology/#comments>1 Comment<span
+class=screen-reader-text> on Internet and Web Technology</span></a></p><div
+style="clear: both;"></div><div
+class=hrline></div><div
+class="addtoany_share_save_container addtoany_content addtoany_content_top"><div
+class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url=https://blog.oureducation.in/internet-and-web-technology/ data-a2a-title="Internet and Web Technology"><a
+class=a2a_button_facebook href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fblog.oureducation.in%2Finternet-and-web-technology%2F&amp;linkname=Internet%20and%20Web%20Technology" title=Facebook rel="nofollow noopener" target=_blank></a><a
+class=a2a_button_twitter href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fblog.oureducation.in%2Finternet-and-web-technology%2F&amp;linkname=Internet%20and%20Web%20Technology" title=Twitter rel="nofollow noopener" target=_blank></a><a
+class=a2a_button_email href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fblog.oureducation.in%2Finternet-and-web-technology%2F&amp;linkname=Internet%20and%20Web%20Technology" title=Email rel="nofollow noopener" target=_blank></a><a
+class=a2a_button_instapaper href="https://www.addtoany.com/add_to/instapaper?linkurl=https%3A%2F%2Fblog.oureducation.in%2Finternet-and-web-technology%2F&amp;linkname=Internet%20and%20Web%20Technology" title=Instapaper rel="nofollow noopener" target=_blank></a><a
+class="a2a_dd addtoany_share_save addtoany_share" href=https://www.addtoany.com/share></a></div></div><div
+class=mailmunch-forms-before-post style='display: none !important;'></div><p><a
+href="https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?ssl=1" rel=prettyPhoto><img
+data-attachment-id=17910 data-permalink=https://blog.oureducation.in/7074702-web-technology-internet-abstract-as-a-concept/ data-orig-file="https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?fit=1200%2C732&amp;ssl=1" data-orig-size=1200,732 data-comments-opened=1 data-image-meta={&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;} data-image-title=7074702-web-technology-internet-abstract-as-a-concept data-image-description data-image-caption data-medium-file="https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?fit=300%2C183&amp;ssl=1" data-large-file="https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?fit=625%2C381&amp;ssl=1" loading=lazy class="size-medium wp-image-17910 jetpack-lazy-image" title="Internet and web technology" alt=7074702-web-technology-internet-abstract-as-a-concept src="https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?resize=300%2C183&#038;ssl=1" width=300 height=183 data-recalc-dims=1 data-lazy-srcset="https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?resize=300%2C183&amp;ssl=1 300w, https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?resize=150%2C92&amp;ssl=1 150w, https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?resize=1024%2C625&amp;ssl=1 1024w, https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?resize=148%2C90&amp;ssl=1 148w, https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?resize=704%2C429&amp;ssl=1 704w, https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?w=1200&amp;ssl=1 1200w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?resize=300%2C183&amp;is-pending-load=1#038;ssl=1" srcset=data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7><noscript><img
+data-attachment-id=17910 data-permalink=https://blog.oureducation.in/7074702-web-technology-internet-abstract-as-a-concept/ data-orig-file="https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?fit=1200%2C732&amp;ssl=1" data-orig-size=1200,732 data-comments-opened=1 data-image-meta={&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;} data-image-title=7074702-web-technology-internet-abstract-as-a-concept data-image-description data-image-caption data-medium-file="https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?fit=300%2C183&amp;ssl=1" data-large-file="https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?fit=625%2C381&amp;ssl=1" loading=lazy class="size-medium wp-image-17910 lazy" title="Internet and web technology" alt=7074702-web-technology-internet-abstract-as-a-concept src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20183'%3E%3C/svg%3E" data-src="https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?resize=300%2C183&#038;ssl=1" width=300 height=183 data-srcset="https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?resize=300%2C183&amp;ssl=1 300w, https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?resize=150%2C92&amp;ssl=1 150w, https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?resize=1024%2C625&amp;ssl=1 1024w, https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?resize=148%2C90&amp;ssl=1 148w, https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?resize=704%2C429&amp;ssl=1 704w, https://i2.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/7074702-web-technology-internet-abstract-as-a-concept.jpg?w=1200&amp;ssl=1 1200w" data-sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims=1></noscript></a></p><p><strong> </strong></p><h2>Internet and web technology</h2><p><strong
+style="line-height: 1.714285714; font-size: 1rem;">1.(a) What is  Internet and Web Technology?</strong></p><p>Ans:- Internet is a collection of various types of networks, located in the web servers. Web technology is defined as the technology through which we can develop or create various types of web pages.</p><p><strong>(b) What do you mean by a web page?</strong></p><p>Ans:- A web page is a document or resoursce pf information is usually written in HTML that is suitable for the world wide web(WWW),</p><p><strong>(c) What do you mean by World Wide Web(WWW)?</strong></p><p>Ans:- World wide web is a system, based on the hypertext and HTTP, for providing, organizing, and accessing a wide variety of resources.</p><p><strong>(d) What is a mark up language?</strong></p><p>Ans:- It is a language which is used to format the text inside the HTML document. So that the look and feel of a webpage will increase.</p><p><strong>(e) What is the format of HTML document?</strong></p><p>Ans:- &lt;html&gt;</p><p>&lt;head&gt;</p><p>&lt;title&gt;Title of the page&lt;/title&gt;</p><p>&lt;/head&gt;</p><p>&lt;body&gt;</p><p>// Body of the Web page</p><p>&lt;/body&gt;</p><p>&lt;/html&gt;</p><p><strong>(f) How many types of tags present in HTML?</strong></p><p>Ans:- Two types.</p><p>(i) paired tag:- The tag is said to be paired if it is along with a companion tag and they have an opening and ending tag.</p><p>(ii) singular tag:- The tag is said to be singular if it does not have a companion tag and they have only one opening tag.</p><p><strong>(g) What is the required HTML code for linking?</strong></p><p>Ans:- The required HTML code for linking is</p><p>&lt;a href=&#8221;<em>page destination</em>&#8220;&gt;Click here to go&lt;/a&gt;</p><p><strong>(h) What is the difference between Java and JavaScript?</strong></p><p>Ans:- Java is an object oriented programming language where as JavaScript is more of a scripting language. JavaScript is used to make the web page more interactive. However, Java can be used not only to make interactive webpages but can also be used to create server site applications and standalone programming.</p><p><strong>(i) What can a JavaScript do?</strong></p><p>Ans:- JavaScript gives HTML designer a programming tool. It can reach to event. It can read and write HTML documents. It can put dynamic text into an HTML page. It can be use to validate data.</p><p><strong>(j) Write down the JavaScript code for Print &#8220;HELLO WORLD&#8221;.</strong></p><p>Ans:- &lt;html&gt;</p><p>&lt;head&gt;</p><p>&lt;script language=&#8221;JavaScript&#8221;&gt;</p><p>function display()</p><p>{</p><p>document.write(&#8220;HELLO WORLD&#8221;);</p><p>}</p><div
+class=mailmunch-forms-in-post-middle style='display: none !important;'></div><p>&lt;/script&gt;</p><p>&lt;/head&gt;</p><p>&lt;/html&gt;</p><p>&nbsp;</p><p><strong>2. What is the difference between programming language and markup language?</strong></p><p>Ans:- A programming language is an artificial language designed to communicate instruction to a machine, particularly a computer, where as markup language is a language that is used to format the text inside the HTML document, so that the look and feel of a web page will increase. Programming languages can be used to create programs that control the behavior of a machine and/or to express algorithm precisely. The term Markup means the only particular text will change that is specified within the opening and closing tag. For instance, the &lt;b&gt; tag instructs a browser to display the text that comes after it in bold text. To end the bold text, the &lt;/b&gt; tag is inserted.</p><p>&nbsp;</p><p><strong>3. What do you mean by Web server?</strong></p><p>Ans:- A web browser is a software that runs on a computer and responds to the requests made by other computers on the network. The web browser, an application program sends request to a web server and accepts response from the server.</p><p>A web server manages the web sites, accepts a client&#8217;s request and responds to a client request by sending required information.</p><p>The Apache HTTP server commonly referred to as Apache, is a web server notable for playing a key role in the initial youth of the world wide web. Apache was the first viable alternative to the Netscape communications corporation web server. The first version of Apache web server was created by Robert McCool, who was involved with the National Center of Super computing Applications web server, known as NCSAHTTP.</p><p><strong>4. What do you mean by protocol? Describe different types of protocols.</strong></p><p>Ans:- Protocol means the set of rules by which more than one network can be connected with each other. Different types of protocols are described below.</p><p>Transmission Control Protocol(TCP) is responsible for verifying the correct delivery of data from client to server. It adds support to detest errors or lost data and to trigger  re transmission until the data is correctly and completely received.</p><p>Internet Protocol(IP) is responsible for verifying the correct delivery of data from client to server. It forwards each packet based on a four byte destination address(IP number).</p><p>File Transfer Protocol(FTP) is used for transferring files from one computer to another typically from your computer to a web server.</p><p>Hyper Text Transfer Protocol(HTTP) governs the transfer of hypertext between two or more computers in hypertext or hyper media environment.</p><p><strong>5. Write down the HTML code for Create the following Table.</strong></p><table
+border=1 cellspacing=0 cellpadding=0><tbody><tr><td
+valign=top width=319><b>Name</b></td><td
+valign=top width=319><b>Branch</b></td></tr><tr><td
+valign=top width=319><b>Ram</b></td><td
+valign=top width=319><b>CSE</b></td></tr><tr><td
+valign=top width=319><b>Hari</b></td><td
+valign=top width=319><b>ETC</b></td></tr><tr><td
+valign=top width=319><b>Binod </b></td><td
+valign=top width=319><b>MECH</b></td></tr></tbody></table><p>Ans:- &lt;html&gt;</p><p>&lt;body&gt;</p><p>&lt;table&gt;</p><p>&lt;tr&gt;&lt;th&gt;Name&lt;/th&gt;&lt;th&gt;Branch&lt;/th&gt;&lt;/tr&gt;</p><p>&lt;tr&gt;&lt;td&gt;Ram&lt;/td&gt;&lt;td&gt;CSE&lt;/td&gt;&lt;/tr&gt;</p><p>&lt;tr&gt;&lt;td&gt;Hari&lt;/td&gt;&lt;td&gt;ETC&lt;/td&gt;&lt;/tr&gt;</p><p>&lt;tr&gt;&lt;td&gt;Binod&lt;/td&gt;&lt;td&gt;MECH&lt;/td&gt;&lt;/tr&gt;</p><p>&lt;/table&gt;</p><p>&lt;/body&gt;</p><p>&lt;/html&gt;<b> </b></p><p><strong>6. What are the features of JavaScript?</strong></p><p>Ans:- As in most scripting languages, types are associated with values, not with variables. For example , a variable &#8220;x&#8221; could not bound to a number, then later rebound to a string.</p><p>JavaScript is a powerful scripting language that helps HTML designers to effectively and interacting design websites and web pages in a very simple and efficient way.</p><p>It is such a powerful scripting language which has features to achieve a dynamic effects in webpages. Using the features available in JavaScript, the designer can decide to have dynamically placed text at run time.</p><p>It also has the feature of validating data  submitted at the client level. This helps in saving the processing time of the server because JavaScript initially creates the validation on the client side.</p><p><strong>7. Write down the JavaScript code to find the largest  between two numbers.</strong></p><p>Ans:-</p><p><span
+style="font-size: 1rem; line-height: 1.714285714;">&lt;html&gt;</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;">&lt;body&gt;</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;">&lt;script language=&#8221;JavaScript&#8221;&gt;</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;">var a, b;</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;">a=prompt(&#8220;Enter the first number&#8221;);</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;">b=prompt(&#8220;Enter the second number&#8221;);</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;">if(a&gt;b)</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;">document.write(&#8220;a is greater than b&#8221;);</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;">else</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;">if(b&gt;a)</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;">document.write(&#8220;b is greater than a&#8221;);</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;">else</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;">document.write(Both are Equal);</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;">&lt;/script&gt;</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;">&lt;/body&gt;</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;">&lt;/html&gt;</span><br>
+<span
+style="font-size: 1rem; line-height: 1.714285714;"> </span></p><div
+class=mailmunch-forms-after-post style='display: none !important;'></div><div
+id=jp-relatedposts class=jp-relatedposts ></div><div
+class=hrline></div><div
+class=postauthor><h3 class="additional">About the Author: <a
+href=https://blog.oureducation.in/author/niroj-pahi/ title="Posts by Niroj Pahi" rel=author>Niroj Pahi</a></h3><div
+class=authordesc>Niroj Kumar Pahi
+B-Tech Computer Science Engineering From Oxford College of Engineering and Management, Bhubaneswar, Odisha.
+Currently Working in Ruva Customer Services pvt. Ltd as IT promotional Consultant</div></div><div
+style="clear: both;"></div><div
+id=respond class=comment-respond><h3 id="reply-title" class="comment-reply-title">Tell us Your Queries, Suggestions and Feedback <small><a
+rel=nofollow id=cancel-comment-reply-link href=/internet-and-web-technology/#respond style=display:none;>Cancel reply</a></small></h3><form
+action=https://blog.oureducation.in/wp-comments-post.php method=post id=commentform class=comment-form><p
+class=comment-notes><span
+id=email-notes>Your email address will not be published.</span></p><p
+class=comment-form-comment><label
+for=comment>Comment</label><textarea id=comment name=comment cols=45 rows=8 maxlength=65525 required=required></textarea></p><p
+class=comment-form-author><label
+for=author>Name</label> <input
+id=author name=author type=text value size=30 maxlength=245></p><p
+class=comment-form-email><label
+for=email>Email</label> <input
+id=email name=email type=text value size=30 maxlength=100 aria-describedby=email-notes></p><p
+class=comment-form-url><label
+for=url>Website</label> <input
+id=url name=url type=text value size=30 maxlength=200></p><p
+class=form-submit><input
+name=submit type=submit id=submit class=submit value="Post Comment"> <input
+type=hidden name=comment_post_ID value=17935 id=comment_post_ID>
+<input
+type=hidden name=comment_parent id=comment_parent value=0></p><p
+style="display: none;"><input
+type=hidden id=akismet_comment_nonce name=akismet_comment_nonce value=0aefc159b3></p> <script src=//cdn.ckeditor.com/4.11.3/full-all/ckeditor.js></script> <script>CKEDITOR.replace("comment",{skin:"office2013,https://blog.oureducation.in/wp-content/plugins/ark-wysiwyg-comment-editor/ckeditor/skins/office2013/"});CKEDITOR.config.disableNativeSpellChecker=false;CKEDITOR.config.removePlugins="scayt,contextmenu";CKEDITOR.config.contentsCss="";CKEDITOR.config.smiley_columns=8
+CKEDITOR.config.smiley_images=["regular_smile.png","sad_smile.png","wink_smile.png","teeth_smile.png","confused_smile.png","tongue_smile.png","embarrassed_smile.png","omg_smile.png","whatchutalkingabout_smile.png","angry_smile.png","angel_smile.png","shades_smile.png","devil_smile.png","cry_smile.png","lightbulb.png","thumbs_down.png","thumbs_up.png","heart.png","broken_heart.png","kiss.png","envelope.png"];CKEDITOR.config.toolbar=[{name:"bar1",items:["Undo","Redo","-",]},{name:"bar2",items:["Bold","Italic","Underline","Strike"]},{name:"bar4",items:["TextColor","BGColor"]},{name:"bar5",items:["Link","Unlink","Anchor","-","Image","Smiley","-",]},{name:"bar6",items:["Blockquote","-","Source"]},{name:"bar7",items:["BulletedList","NumberedList"]},{name:"bar8",items:["Table",]},{name:"barfont",items:["FontSize","Font","-",]},];</script> <input
+type=hidden id=ak_js name=ak_js value=48><textarea name=ak_hp_textarea cols=45 rows=8 maxlength=100 style="display: none !important;"></textarea></form></div><div
+id=comments><h3 id="comments-title">One Response to Internet and Web Technology</h3><div
+class=hrline></div><ol
+class=commentlist>
+<li
+class="comment even thread-even depth-1" id=comment-474529><div
+id=div-comment-474529 class=comment-body><div
+class="comment-author vcard">
+<cite
+class=fn>dipti</cite> <span
+class=says>says:</span></div><div
+class="comment-meta commentmetadata">
+<a
+href=https://blog.oureducation.in/internet-and-web-technology/#comment-474529> at </a></div><p>Engineering programs</p><div
+class=reply><a
+rel=nofollow class=comment-reply-link href=#comment-474529 data-commentid=474529 data-postid=17935 data-belowelement=div-comment-474529 data-respondelement=respond data-replyto="Reply to dipti" aria-label='Reply to dipti'>Reply</a></div></div>
+</li></ol></div><p>
+<span
+class=fl style=width:45%;>&laquo; <a
+href=https://blog.oureducation.in/sample-paper-for-operating-system/ rel=prev>Sample paper for Operating System</a></span>  <span
+class=fr style="width:45%; text-align:right"><a
+href=https://blog.oureducation.in/iift-sample-papers-for-mba-students/ rel=next>IIFT SAMPLE PAPERS FOR MBA STUDENTS</a> &raquo;</span></p><div
+style="clear: both;"></div></div></div><div
+style="clear: both;"></div></div><div
+id=sidebar><div
+class=widgetable><div
+class=textwidget></div><h2>Must Read</h2><div
+class="textwidget custom-html-widget"><span
+style="color: #ff0000;"><strong><a
+style="color: #ff0000;" href=https://blog.oureducation.in/best-ias-coaching-institutes-in-delhi/ >Best IAS Coaching in Delhi</a>- <span
+style="color: #000000;">UPSC Topper Tina Dabi Secret</span></strong></span><hr>
+<span
+style="color: #ff0000;"><strong><a
+style="color: #ff0000;" href=https://blog.oureducation.in/top-ias-coaching-institutes-in-hyderabad/ >Best IAS Coaching in Hyderabad </a></strong></span><hr>
+<span
+style="color: #ff0000;"><a
+style="color: #ff0000;" href=https://blog.oureducation.in/best-ias-coaching-institutes-in-allahabad/ ><strong>Best IAS Coaching in Allahabad</strong></a></span><hr>
+<span
+style="color: #ff0000;"><a
+style="color: #ff0000;" href=https://blog.oureducation.in/top-10-upsc-coaching-centre-bangalore/ ><strong>Best IAS Coaching in Bangalore </strong></a></span><hr>
+<span
+style="color: #ff0000;"><a
+style="color: #ff0000;" href=https://blog.oureducation.in/best-ias-coaching-institutes-in-chennai/ ><strong>Top IAS Coaching in Chennai</strong></a></span><hr>
+<span
+style="color: #ff0000;"><a
+style="color: #ff0000;" href=https://blog.oureducation.in/top-ias-coaching-institute-kolkata/ ><strong>Best IAS Coaching in Kolkata</strong></a></span><hr>
+<span
+style="color: #ff0000;"><a
+style="color: #ff0000;" href=https://blog.oureducation.in/best-ias-coaching-centers-in-patna/ ><strong>Best IAS Coaching in Patna</strong></a></span><hr>
+<span
+style="color: #ff0000;"><a
+style="color: #ff0000;" href=https://onlinekhanmarket.com/ target=_blank rel=noopener><strong
+style="font-size: xx-large;">IAS PDF Notes</strong></a></span><hr>
+<span
+style="color: #ff0000;"><strong><a
+style="color: #ff0000;" href=https://blog.oureducation.in/best-books-ias-mains/ >Best Books for IAS Mains</a></strong></span><hr>
+<span
+style="color: #ff0000;"><strong><a
+style="color: #ff0000;" href=https://blog.oureducation.in/top-ias-coaching-institutes-in-mumbai/ >Top IAS Coaching in Mumbai</a></strong></span><hr>
+<span
+style="color: #ff0000;"><strong><a
+style="color: #ff0000;" href=https://blog.oureducation.in/top-ias-coaching-centers-in-telangana/ >Top IAS Coaching in Telangana</a></strong></span></div></div></div><div
+id=core_bg></div></div><div
+id=footer class=body2><div
+class="threecol first"><h2>About us</h2><div
+class="textwidget custom-html-widget">OurEducation is an Established trademark in Rating, Ranking and Reviewing Top 10 Education Institutes, Schools, Test Series, Courses, Coaching Institutes, and Colleges.</div></div><div
+class=threecol><h2>Popular Posts</h2><div
+class="textwidget custom-html-widget"><a
+href=https://blog.oureducation.in/best-ias-coaching-institutes-in-delhi/ >Top IAS Coaching in Delhi</a><hr>
+<a
+href=https://blog.oureducation.in/top-ias-coaching-institute-kolkata/ >Top IAS Coaching in Kolkata</a><hr>
+<a
+href=https://blog.oureducation.in/top-ias-coaching-institutes-in-hyderabad/ >Top IAS Coaching Institutes in Hyderabad</a><hr>
+<a
+href=https://blog.oureducation.in/top-10-upsc-coaching-centre-bangalore/ >Top IAS Coaching Institutes in Bangalore</a><hr>
+<a
+href=https://blog.oureducation.in/best-ias-coaching-institutes-in-indore/ >Top IAS Coaching in Indore</a><hr>
+<a
+href=https://blog.oureducation.in/best-ias-coaching-institutes-in-coimbatore/ >Best IAS Coaching Institutes in Coimbatore</a><hr>
+<a
+href=https://blog.oureducation.in/best-ias-coaching-institutes-in-vijayawada/ >Best IAS Coaching in Vijayawada</a><hr>
+<a
+href=https://blog.oureducation.in/best-ias-coaching-institutes-in-allahabad/ >Top IAS Coaching Institutes in Allahabad</a><hr>
+<a
+href=https://blog.oureducation.in/top-ias-coaching-institutes-in-chandigarh/ >Best IAS Coaching in Chandigarh
+</a><hr>
+<a
+href=https://blog.oureducation.in/top-ias-coaching-institutes-in-mumbai/ >Best IAS Coaching Institutes in Mumbai
+</a><hr>
+<a
+href=https://blog.oureducation.in/best-pcs-coaching-institutes-in-chandigarh/ >Best PCS Coaching in Chandigarh
+</a><hr>
+<a
+href=https://blog.oureducation.in/best-ias-coaching-institutes-in-bhopal/ >Best IAS Coaching in Bhopal
+</a><hr>
+<a
+href=https://blog.oureducation.in/best-upsc-coaching-in-surat/ >Best IAS Coaching in Surat
+</a></div></div><div
+class=threecol><h2>Articles on UPSC Exam Preparation</h2><div
+class="textwidget custom-html-widget"><strong><a
+href=https://blog.oureducation.in/ias-upsc-preparation/ >IAS Preparation</a></strong><hr><a
+href=https://blog.oureducation.in/right-age-to-start-ias-preparation/ ><strong>when to Start IAS Exam preparation</strong></a><hr><a
+href=https://blog.oureducation.in/prepare-civil-services-exam/ ><strong>How to Prepare for the UPSC CSE Exam</strong></a><hr><strong><a
+href=https://blog.oureducation.in/upsc-mains-exam-syllabus/ >UPSC Exam Syllabus</a></strong><hr><a
+href=https://blog.oureducation.in/tips-to-crack-ias-exam-sure-shot-strategies-ias-rank-holder/ ><strong>Tips and Tricks to Crack the IAS Examination</strong></a></div></div><div
+class=threecol><h2>Quick Links</h2><div
+class=menu-quick-links-container><ul
+id=menu-quick-links class=menu><li
+id=menu-item-112281 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-112281"><a
+href=https://blog.oureducation.in/ >Best Coaching Institutes Colleges Rank</a></li>
+<li
+id=menu-item-112284 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112284"><a
+href=https://blog.oureducation.in/us/ >About Us</a></li>
+<li
+id=menu-item-112282 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112282"><a
+href=https://blog.oureducation.in/advertisement-policy/ >Advertisement Policy</a></li>
+<li
+id=menu-item-112283 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112283"><a
+href=https://blog.oureducation.in/disclaimer/ >Disclaimer</a></li>
+<li
+id=menu-item-112285 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112285"><a
+href=https://blog.oureducation.in/contact-us/ >Contact Us</a></li>
+<li
+id=menu-item-174215 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174215"><a
+href=https://blog.oureducation.in/sitemap_index.xml>Sitemap</a></li></ul></div><div
+class="textwidget custom-html-widget"><a
+href=https://www.facebook.com/oureducation/ target=_blank rel="noopener noreferrer"> <img
+class="alignnone jetpack-lazy-image" title="Facebook exam preparation coaching " src="https://i0.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/facebook.jpg?resize=60%2C60&#038;ssl=1" alt="connect us facebook" width=60 height=60 data-recalc-dims=1 data-lazy-src="https://i0.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/facebook.jpg?resize=60%2C60&amp;is-pending-load=1#038;ssl=1" srcset=data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7><noscript><img
+class="alignnone lazy" title="Facebook exam preparation coaching " src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" data-src="https://i0.wp.com/blog.oureducation.in/wp-content/uploads/2013/03/facebook.jpg?resize=60%2C60&#038;ssl=1" alt="connect us facebook" width=60 height=60 data-recalc-dims=1></noscript></a>
+<a
+href=https://t.me/studymaterialoureducation target=_blank rel="noopener noreferrer"><img
+class="alignnone jetpack-lazy-image" title="exam preparation" src="https://i1.wp.com/blog.oureducation.in/wp-content/uploads/2019/07/Best-Telegram-Group-for-Government-Exam.jpg?resize=60%2C60&#038;ssl=1" alt="Best Telegram Group for Government Exam" width=60 height=60 data-recalc-dims=1 data-lazy-src="https://i1.wp.com/blog.oureducation.in/wp-content/uploads/2019/07/Best-Telegram-Group-for-Government-Exam.jpg?resize=60%2C60&amp;is-pending-load=1#038;ssl=1" srcset=data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7><noscript><img
+class="alignnone lazy" title="exam preparation" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" data-src="https://i1.wp.com/blog.oureducation.in/wp-content/uploads/2019/07/Best-Telegram-Group-for-Government-Exam.jpg?resize=60%2C60&#038;ssl=1" alt="Best Telegram Group for Government Exam" width=60 height=60 data-recalc-dims=1></noscript></a>
+<a
+href=https://www.youtube.com/channel/UCiJHhZle1v3foU5Abfg-nng><img
+class="alignnone jetpack-lazy-image" src="https://i0.wp.com/blog.oureducation.in/wp-content/uploads/2020/02/oureducation-youtube-channel.jpg?resize=60%2C60&#038;ssl=1" alt="youtube " width=60 height=60 data-recalc-dims=1 data-lazy-src="https://i0.wp.com/blog.oureducation.in/wp-content/uploads/2020/02/oureducation-youtube-channel.jpg?resize=60%2C60&amp;is-pending-load=1#038;ssl=1" srcset=data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7><noscript><img
+class="alignnone lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2060'%3E%3C/svg%3E" data-src="https://i0.wp.com/blog.oureducation.in/wp-content/uploads/2020/02/oureducation-youtube-channel.jpg?resize=60%2C60&#038;ssl=1" alt="youtube " width=60 height=60 data-recalc-dims=1></noscript></a></div></div><div
+class=aboutus><div
+style="clear: both;"></div><div
+style="clear: both;"></div><div
+style="clear: both;"></div><div
+class=aboutus_social><ul
+class=social-menu></ul></div></div></div><div
+id=copyright><div
+class=fl></div><div
+class=fl><p>&copy; 2021 Our Education | Best Coaching Institutes Colleges Rank | Best Coaching Institutes Colleges Rank</p></div><div
+class=fr></div></div></div><div
+class=scrollTo_top style="display: block"><a
+title="Scroll to top" href=#>
+<i
+class=icon-double-angle-up></i>
+</a></div><div
+id=jp-carousel-loading-overlay><div
+id=jp-carousel-loading-wrapper>
+<span
+id=jp-carousel-library-loading>&nbsp;</span></div></div><div
+class=jp-carousel-overlay style="display: none;"><div
+class=jp-carousel-container><div
+class="jp-carousel-wrap swiper-container jp-carousel-swiper-container jp-carousel-transitions"
+itemscope
+itemtype=https://schema.org/ImageGallery><div
+class="jp-carousel swiper-wrapper"></div><div
+class="jp-swiper-button-prev swiper-button-prev">
+<svg
+width=25 height=24 viewBox="0 0 25 24" fill=none xmlns=http://www.w3.org/2000/svg>
+<mask
+id=maskPrev mask-type=alpha maskUnits=userSpaceOnUse x=8 y=6 width=9 height=12>
+<path
+d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill=white />
+</mask>
+<g
+mask=url(#maskPrev)>
+<rect
+x=0.579102 width=23.8823 height=24 fill=#FFFFFF />
+</g>
+</svg></div><div
+class="jp-swiper-button-next swiper-button-next">
+<svg
+width=25 height=24 viewBox="0 0 25 24" fill=none xmlns=http://www.w3.org/2000/svg>
+<mask
+id=maskNext mask-type=alpha maskUnits=userSpaceOnUse x=8 y=6 width=8 height=12>
+<path
+d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill=white />
+</mask>
+<g
+mask=url(#maskNext)>
+<rect
+x=0.34375 width=23.8822 height=24 fill=#FFFFFF />
+</g>
+</svg></div></div><div
+class=jp-carousel-close-hint>
+<svg
+width=25 height=24 viewBox="0 0 25 24" fill=none xmlns=http://www.w3.org/2000/svg>
+<mask
+id=maskClose mask-type=alpha maskUnits=userSpaceOnUse x=5 y=5 width=15 height=14>
+<path
+d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill=white />
+</mask>
+<g
+mask=url(#maskClose)>
+<rect
+x=0.409668 width=23.8823 height=24 fill=#FFFFFF />
+</g>
+</svg></div><div
+class=jp-carousel-info><div
+class=jp-carousel-info-footer><div
+class=jp-carousel-pagination-container><div
+class="jp-swiper-pagination swiper-pagination"></div><div
+class=jp-carousel-pagination></div></div><div
+class=jp-carousel-photo-title-container><h2 class="jp-carousel-photo-caption"></h2></div><div
+class=jp-carousel-photo-icons-container>
+<a
+href=# class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Toggle photo metadata visibility">
+<span
+class=jp-carousel-icon>
+<svg
+width=25 height=24 viewBox="0 0 25 24" fill=none xmlns=http://www.w3.org/2000/svg>
+<mask
+id=maskInfo mask-type=alpha maskUnits=userSpaceOnUse x=2 y=2 width=21 height=20>
+<path
+fill-rule=evenodd clip-rule=evenodd d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill=white />
+</mask>
+<g
+mask=url(#maskInfo)>
+<rect
+x=0.8125 width=23.8823 height=24 fill=#FFFFFF />
+</g>
+</svg>
+</span>
+</a>
+<a
+href=# class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Toggle photo comments visibility">
+<span
+class=jp-carousel-icon>
+<svg
+width=25 height=24 viewBox="0 0 25 24" fill=none xmlns=http://www.w3.org/2000/svg>
+<mask
+id=maskComments mask-type=alpha maskUnits=userSpaceOnUse x=2 y=2 width=21 height=20>
+<path
+fill-rule=evenodd clip-rule=evenodd d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill=white />
+</mask>
+<g
+mask=url(#maskComments)>
+<rect
+x=0.34668 width=23.8823 height=24 fill=#FFFFFF />
+</g>
+</svg><span
+class=jp-carousel-has-comments-indicator aria-label="This image has comments."></span>
+</span>
+</a></div></div><div
+class=jp-carousel-info-extra><div
+class=jp-carousel-info-content-wrapper><div
+class=jp-carousel-photo-title-container><h2 class="jp-carousel-photo-title"></h2></div><div
+class=jp-carousel-comments-wrapper><div
+id=jp-carousel-comments-loading>
+<span>Loading Comments...</span></div><div
+class=jp-carousel-comments></div><div
+id=jp-carousel-comment-form-container>
+<span
+id=jp-carousel-comment-form-spinner>&nbsp;</span><div
+id=jp-carousel-comment-post-results></div><form
+id=jp-carousel-comment-form>
+<label
+for=jp-carousel-comment-form-comment-field class=screen-reader-text>Write a Comment...</label><textarea
+name=comment
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id=jp-carousel-comment-form-comment-field
+													placeholder="Write a Comment..."
+												></textarea><div
+id=jp-carousel-comment-form-submit-and-info-wrapper><div
+id=jp-carousel-comment-form-commenting-as><fieldset>
+<label
+for=jp-carousel-comment-form-email-field>Email</label>
+<input
+type=text name=email class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id=jp-carousel-comment-form-email-field></fieldset><fieldset>
+<label
+for=jp-carousel-comment-form-author-field>Name</label>
+<input
+type=text name=author class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id=jp-carousel-comment-form-author-field></fieldset><fieldset>
+<label
+for=jp-carousel-comment-form-url-field>Website</label>
+<input
+type=text name=url class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id=jp-carousel-comment-form-url-field></fieldset></div>
+<input
+type=submit
+name=submit
+class=jp-carousel-comment-form-button
+id=jp-carousel-comment-form-button-submit
+value="Post Comment"></div></form></div></div><div
+class=jp-carousel-image-meta><div
+class=jp-carousel-title-and-caption><div
+class=jp-carousel-photo-info><h3 class="jp-carousel-caption" itemprop="caption description"></h3></div><div
+class=jp-carousel-photo-description></div></div><ul
+class=jp-carousel-image-exif style="display: none;"></ul>
+<a
+class=jp-carousel-image-download target=_blank style="display: none;">
+<svg
+width=25 height=24 viewBox="0 0 25 24" fill=none xmlns=http://www.w3.org/2000/svg>
+<mask
+id=mask0 mask-type=alpha maskUnits=userSpaceOnUse x=3 y=3 width=19 height=18>
+<path
+fill-rule=evenodd clip-rule=evenodd d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill=white />
+</mask>
+<g
+mask=url(#mask0)>
+<rect
+x=0.870605 width=23.8823 height=24 fill=#FFFFFF />
+</g>
+</svg>
+<span
+class=jp-carousel-download-text></span>
+</a><div
+class=jp-carousel-image-map style="display: none;"></div></div></div></div></div></div></div> <script src=https://blog.oureducation.in/wp-content/cache/minify/1417c.js></script> <script src=https://c0.wp.com/p/jetpack/10.1/_inc/build/photon/photon.min.js id=jetpack-photon-js></script> <script src=https://blog.oureducation.in/wp-content/cache/minify/33759.js></script> <script id=awsm-ead-public-js-extra>var eadPublic=[];</script> <script src=https://blog.oureducation.in/wp-content/cache/minify/fcbab.js></script> <script src=https://c0.wp.com/c/5.8.1/wp-includes/js/dist/vendor/regenerator-runtime.min.js id=regenerator-runtime-js></script> <script src=https://c0.wp.com/c/5.8.1/wp-includes/js/dist/vendor/wp-polyfill.min.js id=wp-polyfill-js></script> <script id=contact-form-7-js-extra>var wpcf7={"api":{"root":"https:\/\/blog.oureducation.in\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};</script> <script src=https://blog.oureducation.in/wp-content/cache/minify/c033e.js></script> <script id=jetpack-lazy-images-js-extra>var jetpackLazyImagesL10n={"loading_warning":"Images are still loading. Please cancel your print and try again."};</script> <script src=https://blog.oureducation.in/wp-content/cache/minify/9edbd.js></script> <script src=https://c0.wp.com/c/5.8.1/wp-includes/js/comment-reply.min.js id=comment-reply-js></script> <script src=https://c0.wp.com/c/5.8.1/wp-includes/js/wp-embed.min.js id=wp-embed-js></script> <script id=jetpack-carousel-js-extra>/*<![CDATA[*/var jetpackSwiperLibraryPath={"url":"https:\/\/blog.oureducation.in\/wp-content\/plugins\/jetpack\/_inc\/build\/carousel\/swiper-bundle.min.js"};var jetpackCarouselStrings={"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/blog.oureducation.in\/wp-admin\/admin-ajax.php","nonce":"ec6da3c8cb","display_exif":"1","display_comments":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/blog.oureducation.in\/wp-login.php?redirect_to=https%3A%2F%2Fblog.oureducation.in%2Finternet-and-web-technology%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"]};/*]]>*/</script> <script src=https://c0.wp.com/p/jetpack/10.1/_inc/build/carousel/jetpack-carousel.min.js id=jetpack-carousel-js></script> <script defer src=https://blog.oureducation.in/wp-content/cache/minify/5b374.js></script> <script src=https://stats.wp.com/e-202139.js defer></script> <script>_stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:10.1',blog:'160176957',post:'17935',tz:'5.5',srv:'blog.oureducation.in'}]);_stq.push(['clickTrackerInit','160176957','17935']);</script> <script>window.w3tc_lazyload=1,window.lazyLoadOptions={elements_selector:".lazy",callback_loaded:function(t){var e;try{e=new CustomEvent("w3tc_lazyload_loaded",{detail:{e:t}})}catch(a){(e=document.createEvent("CustomEvent")).initCustomEvent("w3tc_lazyload_loaded",!1,!1,{e:t})}window.dispatchEvent(e)}}</script><script async src=https://blog.oureducation.in/wp-content/cache/minify/1615d.js></script> </body></html>
