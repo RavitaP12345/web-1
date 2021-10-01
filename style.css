@@ -1,146 +1,112 @@
 *{
-    padding: 0;
-    margin: 0;
+    padding: 0px;
+    margin: 0px;
+    
 }
-.container{
-    width: 80%;
-    margin: auto;
-    padding: 1%;
-
+body{
+    background-color: rgb(71, 243, 255);
 }
-.img-responsive{
+.text{
     width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 
 }
-.img-curve{
-    border-radius: 15px;
+
+/* .overplay{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+} */
+/* .citytext{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+   
+} 
+.citytext h1{
+    color: white;
+    font-size: 2em;
+}
+.citytext p{
+    color: white;
+    font-size: 2em;
+}
+@media only screen and (max-width:600px){
+    .citytext h1{
+        font-size: 1em;
+    }
+}
+@media only screen and (max-width:600px){
+    .citytext p{
+        font-size: 1em; 
+    }
+}*/
+#nav{
+    font-size: 1.5em;
+}
+@media only screen and (max-width:600px){
+    #nav{
+        font-size: 1em;
+    }
+}
+.bodypart{
+    margin-top: 20px;
+    margin-left: 55px;
+    margin-right: 55px;
+}
+#footer{
+    background-color: pink;
+    padding: 20px 0;
+}
+#footer ul{
+    padding-left:0 ;
+    list-style: none;
+}
+#footer ul a{
+    color: #555;
+    padding: 20px 0;
 
 }
-.text-right{
-    text-align: right;
-}
-.text-center{
+#footer .social{
     text-align: center;
 }
-.clearfix{
-    clear: both;
-    float: none;
-}
-a{
-    color: #ff6b81;
-    text-decoration: none;
-    font-size: 1.5rem;
-}
-a:hover{
-    color: #ff4757;
-}
-.btn{
-    padding: 1%;
-    border: none;
-    font-size: 1rem;
-}
-.btn-primary{
-    background-color: #ff6b81;
-    color: white;
-    cursor: pointer;
-    border-radius: 10px;
-}
-.btn-primary:hover{
-    background-color:#ff4757 ;
-}
-h2{
-    color: #2f3542;
-    font-size: 2rem;
-    margin-bottom: 2%;
-}
-h3{
-    font-size: 1.5rem;
-}
-.float-container{
-    position: relative;
-}
-.float-text{
-    position: absolute;
-    bottom: 50px;
-    left: 40%;
-}
-.text-white{
-    color:white;
-}
-/* stylling for navbar */
-.logo{
-    width: 10%;
-    float: left;
-}
-.menu{
-    line-height: 100px;
-}
-.menu ul{
-    list-style-type: none;
-
-}
-.menu ul li{
-    display: inline; 
-    padding: 1%;
-    font-weight: bold;   
-}
-/* css for food search */
-.food-search{
-    background-image: url(../images/background1.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    padding: 7% 0;
-}
-.food-search input[type="search"]{
-    width: 50%;
-    padding: 1%;
-    font-size: 1rem;
-    border: none;
-    border-radius: 10px;
-}
-/* css for categories */
-.box-3{
-    width: 28%;
-    float: left;
-    margin: 2%;
-}
-.food-menu{
-    background-color: darkgrey;
-    padding: 4% 0;
-}
-.food-menu-box{
-    width: 45%;
-    float: left;
-    padding: 1%;
-    margin: 1%;
-    background-color: white;
+#footer .social a{
+    margin: 0 10px 0 0;
+    color: #f0f0f0;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
     border-radius: 15px;
-
+    line-height: 30px;
+    font-size: 15px;
+    text-align: center;
+    transform: all 0.25 ease-out;
+    vertical-align: bottom;
+    background-color: #555;
 }
-.food-menu-img{
-    width: 20%;
-    float: left;
+/* copyright section */
+#copyright{
+    background-color:black;
+    color:white;
+    padding: 20px;
+    font-size: 12px;
 }
-.food-menu-desc{
-    width: 70%;
-    float: left;
-    margin-left: 8%;
+#copyright p{
+    margin: 0;
 }
-.food-price{
-    font-size: 1.2rem;
-    margin: 1% 0;
-}
-.food-details{
-    font-size: 1rem;
-}
-/* css for social */
-.social ul{
-    list-style-type: none;
-}
-.social ul li{
-    display: inline;
-    padding: 1%;
-}
-
-

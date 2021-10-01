@@ -1,0 +1,26 @@
+
+.drop_list{
+    color: white;
+    list-style-type: none;
+}
+.drop_list li{
+    background-color: rgb(146, 48, 141);
+    border: 1px solid black;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+
+}
+.drop_list li:hover{
+    background-color: rgb(145, 86, 37);
+}
+.drop_list li a{
+    color: white;
+}
+.drop_list ul{
+    display: none;
+}
+.drop_list li:hover > ul{
+    display: block;
+} 

@@ -1,0 +1,57 @@
+.fix{
+    clear: both;
+    overflow: hidden;
+}
+header{
+    overflow: hidden;
+    height: 400px;
+}
+.vid-bg{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+.nav-area{
+    background-color : red;
+    height: 60px;
+    position: absolute;
+    width: 100%;
+}
+.logo{
+    margin: 0 30px;
+    float: left;
+    color: white;
+}
+.logo img{
+    height: 3em;
+    width: 3em;
+}
+.menu-area {
+    float: right;
+    list-style: none;
+    margin: 20px;
+}
+.menu-area li {
+    display: inline-block;
+    margin: 0 5px;
+}
+.menu-area li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px;
+    letter-spacing: 2px;
+    font-size: 1em;
+
+}
+@media only screen and (max-width:600px){
+    .menu-area li{
+        font-size: 0.5em;
+    }
+}
+@media only screen and (max-width:600px){
+    .logo img{
+        height: 10em;
+    }
+}
